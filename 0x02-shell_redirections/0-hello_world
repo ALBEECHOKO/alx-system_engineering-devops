@@ -1,2 +1,2 @@
 #!/bin/bash
-shell redirections scrript
+echo 'Hello, World' > 0-hello_world
